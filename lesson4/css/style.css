@@ -1,0 +1,31 @@
+@import url(reset.css);
+
+
+
+/* .second-p .mark {
+    color: beige;
+} */
+
+.first-p.text {
+    color: blueviolet;
+    
+}
+
+.some-span .first-p.text{
+    color: rgb(161, 162, 177);
+    text-decoration: line-through;
+}
+
+p > .some-span {
+    color: brown;
+    text-decoration: underline;
+}
+
+li .link-1 {
+    color: blue;
+}
+
+div .second-p {
+    color: red;
+    text-decoration: underline;
+}
