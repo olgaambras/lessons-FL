@@ -1,0 +1,168 @@
+@import url(https://fonts.googleapis.com/css?family=Inter:regular,500,600,700,800&display=swap);
+@import url(https://fonts.googleapis.com/css?family=DM+Serif+Text:regular&display=swap);
+@import url(https://fonts.googleapis.com/css?family=regular,600,700&display=swap);
+@import url(reset.css);
+
+body{
+font-family: "Inter", sans-serif;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+}
+
+
+h1 {
+    color: #0E333D;   
+    font-family: "DM Serif Text", serif;
+    font-size: 59px;
+    line-height: 1.47;
+    margin: 13px 37px 25px 0;
+}
+
+h2 {
+    color: #D06B00;
+    font-family: Inter;
+    font-size: 28px;
+    line-height: normal;
+    margin: 21px 0 13px 0;
+}
+
+.text {
+    color: #474747;
+    font-family: "Inter", sans-serif;
+    font-size: 20px;
+    line-height: 1.80;
+    margin: 0 0 150px 0;
+}
+
+.block {
+    margin: 0px 38px 0px 0px; 
+    gap: 38px;
+}
+
+.box {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 140px 215px;
+}
+
+.photo {
+    border-radius: 5px;
+    gap: 22px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+} 
+
+/* ------------------------------------ConsultingWebsiteTemplate---------------------------------------------- */
+
+.box {
+    max-width: 692px;
+}
+.photo-1 {
+    margin: 0 0 37px 0;
+}
+
+.titles {
+    font-family: "Poppins", sans-serif;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 1.27; /* 25.4px */
+}
+
+.text {
+    color: #7D7D7D;
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 1.46; /* 26.314px */
+}
+
+.block-1 {
+    
+}
+.title {
+    
+    color: #37393F;
+    font-size: 30px;
+    max-height: 86px;
+    margin: 0 0 15px 0;
+}
+
+.text-1 {
+    margin: 0 0 41px 0;
+}
+.sub-title-1 {
+    color: #6B77E5;
+    
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 1.27; /* 25.4px */
+    margin: 0 0 12px 0;
+}
+
+/* -------------------------------------------------------------------------------- */
+.block-2 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 29px;
+}
+
+.block-2-content {
+    
+}
+
+.sub-title-2 {
+    color: #40DDB6;
+    
+    margin: 0 0 21px 0; /* 25.4px */
+    line-height: 1.27;
+}
+
+.table li{
+    color: #7D7D7D;
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: normal;
+    margin: 0 0 30px 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
